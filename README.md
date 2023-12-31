@@ -35,4 +35,4 @@ This project is licensed under the [GPL 3 License](LICENSE).
 
 ## Acknowledgments
 
-- Inspiration or credits to any resources, libraries, or individuals that contributed to this project.
+- Some ideas were taken, inspired or extended from [Bizualizer](https://github.com/doakey3/Bizualizer).
